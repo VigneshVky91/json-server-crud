@@ -1,0 +1,19 @@
+{
+  "dept": [
+    {
+      "id": "1234",
+      "deptname": "Hr",
+      "location": "Bangalore"
+    },
+    {
+      "id": "124",
+      "deptname": "Admin",
+      "location": "Mumbai"
+    },
+    {
+      "id": "125",
+      "deptname": "Admin",
+      "location": "Hyderabad"
+    }
+  ]
+}
